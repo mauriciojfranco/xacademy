@@ -10,8 +10,9 @@
 <li>Base de Datos desarrolada en</li>
 </ul>
  
-<p>El sistema incluira una landing page que constara de login para usuarios y administradores </p>
+<p>El sistema incluira </p>
 <ul>
+ <li>una landing page que constara de login para usuarios y administradores</li>
   <li>Un Crud de Clientes</li>
   <li>Un Crud de Articulos (conjunto)</li>
   <li>Un Un Crud de componentes de Articulos</li>
