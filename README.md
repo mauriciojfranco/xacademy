@@ -6,3 +6,9 @@ El proyecto constara de:
   FRONTEND desarrollado en Angular cli versión
   BACKEND desarrollado en NODEJS versión
   Base de Datos desarrolada en 
+
+El sistema incluira una landing page que constara de login para usuarios y administradores 
+Un Crud de Clientes
+Un Crud de Articulos (conjunto)
+Un Crud de componentes de Articulos
+Un crud de usuarios
