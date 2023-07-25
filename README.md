@@ -15,7 +15,7 @@
  <li>una landing page que constara de login para usuarios y administradores</li>
   <li>Un Crud de Clientes</li>
   <li>Un Crud de Articulos (conjunto)</li>
-  <li>Un Un Crud de componentes de Articulos</li>
+  <li>Un Crud de componentes de Articulos</li>
   <li>Un crud de usuarios</li>
 </ul>
 
