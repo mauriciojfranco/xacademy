@@ -1,14 +1,22 @@
 # xacademy
 
-Somos un grupo de seis alumnos de XAcademy reunidos para llevar a cabo el proyecto final de la edición 2023.
-El proyecto elegido y aprobado por nuestro tutor es SISTEM DE GESTION DE PEDIDOS Y STOCK.
-El proyecto constara de:
-  FRONTEND desarrollado en Angular cli versión
-  BACKEND desarrollado en NODEJS versión
-  Base de Datos desarrolada en 
+<p>Somos un grupo de seis alumnos de XAcademy reunidos para llevar a cabo el proyecto final de la edición 2023. </p>
 
-El sistema incluira una landing page que constara de login para usuarios y administradores 
-Un Crud de Clientes
-Un Crud de Articulos (conjunto)
-Un Crud de componentes de Articulos
-Un crud de usuarios
+<p>El proyecto elegido y aprobado por nuestro tutor es SISTEM DE GESTION DE PEDIDOS Y STOCK. </p>
+<p>El proyecto constara de: </p>
+<ul>
+<li>FRONTEND desarrollado en Angular cli versión</li>
+<li>BACKEND desarrollado en NODEJS versión</li>
+<li>Base de Datos desarrolada en</li>
+</ul>
+ 
+<p>El sistema incluira </p>
+<ul>
+ <li>una landing page que constara de login para usuarios y administradores</li>
+  <li>Un Crud de Clientes</li>
+  <li>Un Crud de Articulos (conjunto)</li>
+  <li>Un Crud de componentes de Articulos</li>
+  <li>Un crud de usuarios</li>
+</ul>
+
+
