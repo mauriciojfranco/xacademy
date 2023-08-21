@@ -3,21 +3,28 @@ import { BrowserModule } from '@angular/platform-browser';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
-import { NavbarComponent } from './modules/navbar/navbar.component';
-import { LoginComponent } from './modules/login/login.component';
-import { HomeComponent } from './modules/home/home.component';
+import { HomeModule } from './modules/home/home.module';
+import { LoginComponent } from './modules/home/login/login.component';
+import { FooterComponent } from './modules/home/footer/footer.component';
+import { HeaderComponent } from './modules/home/header/header.component';
+
+
+
+
 
 
 @NgModule({
   declarations: [
     AppComponent,
-    NavbarComponent,
-    LoginComponent,
-    HomeComponent
+    
+    
+    
   ],
   imports: [
     BrowserModule,   
-    AppRoutingModule
+    AppRoutingModule,
+    HomeModule
+
   ],
   providers: [],
   bootstrap: [AppComponent]
