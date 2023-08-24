@@ -1,6 +1,10 @@
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
+
 import { LoginComponent } from './modules/home/login/login.component';
+import { HeaderComponent } from './modules/home/header/header.component';
+import { MainComponent } from './modules/home/main/main.component';
+import { FooterComponent } from './modules/home/footer/footer.component';
 
 const routes: Routes = [
   /*{
@@ -13,7 +17,15 @@ const routes: Routes = [
   },
   {
     path:'',component:LoginComponent
-  }
+  },
+  { path: 'header', component: HeaderComponent
+  },
+  { 
+    path: 'main', component: MainComponent
+  },
+  { 
+    path: 'footer', component: FooterComponent
+  },
 
 
 ];

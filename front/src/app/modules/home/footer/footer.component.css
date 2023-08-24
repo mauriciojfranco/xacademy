@@ -1,0 +1,14 @@
+footer{
+    background-image: url(../../../../assets/img/fondo.jpg);
+    text-align: center;      
+    font-size: large;
+    color:white ;
+    padding: 10px;
+}
+
+.logo{
+    width:70px; 
+    height:70px; 
+    margin-top: 10px;
+    border-radius: 10px;
+}
