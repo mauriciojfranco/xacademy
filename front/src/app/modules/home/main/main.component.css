@@ -1,20 +1,16 @@
-body{
+.main{
     margin: 0;
     width: 100%;
     height: 100%;
-}
-main{
     background: black;
     padding: 2%;
-}
-p {
-    margin-right: 40px;
 }
 h1 {
     text-align: center;
     color: rgb(250, 225, 1); 
     font-size: 600%; 
     letter-spacing: 10px;
+    padding: 75px;
 }
 button.redondo {
     background-color: white;
@@ -23,8 +19,10 @@ button.redondo {
     padding: 0px 20px;
     height: 40px;
     font-size: x-large;
+    margin-bottom: 70px;
 }
-div#introduction-actions {
+.boton {
     display: flex;
     justify-content: center;
+    margin-top: 10%;
 }
